@@ -22,6 +22,7 @@ void UGrabber::BeginPlay()
 	Super::BeginPlay();
 
 	// ...
+	UE_LOG(LogTemp, Warning, TEXT("Resetting the project lelelele"));
 	
 }
 
